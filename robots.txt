@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fahquighah.shanecoufreur.net/sitemap.xml
